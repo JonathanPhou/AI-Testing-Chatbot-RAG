@@ -1,0 +1,8 @@
+# Ignore environment variables
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+.ipynb_checkpoints/
